@@ -102,7 +102,7 @@ export default class ProjectsSection
                 name: 'Chartogne Taillet',
                 imageSources:
                 [
-                    './models/projects/chartogne/slideA.jpg',
+                    './models/projects/physics/vrroom.png',
                     // './models/projects/chartogne/slideB.jpg',
                     // './models/projects/chartogne/slideC.jpg'
                 ],
