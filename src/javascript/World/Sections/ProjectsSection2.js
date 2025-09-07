@@ -180,14 +180,12 @@ export default class ProjectsSection2
                 name: 'Madbox',
                 imageSources:
                 [
-                    './models/projects/madbox/slideA.jpg',
-                    './models/projects/madbox/slideB.jpg',
-                    './models/projects/madbox/slideC.jpg'
+                    './models/projects/physics/rpg.png',
                 ],
                 floorTexture: this.resources.items.projectsRPGFloorTexture,
                 link:
                 {
-                    href: 'https://madbox.io',
+                    href: 'https://mpo3.mypowerworld.com/rpgpython/',
                     x: - 4.8,
                     y: - 4,
                     halfExtents:
