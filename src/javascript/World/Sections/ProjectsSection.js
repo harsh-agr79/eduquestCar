@@ -109,7 +109,7 @@ export default class ProjectsSection
                 floorTexture: this.resources.items.projectsPhysicsStudyFloorTexture,
                 link:
                 {
-                    href: 'https://chartogne-taillet.com',
+                    href: 'https://rinturifle.github.io/vrroom',
                     x: - 4.8,
                     y: - 3.3,
                     halfExtents:
