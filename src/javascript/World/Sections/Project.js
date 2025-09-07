@@ -194,7 +194,7 @@ export default class Project
         })
         this.floor.area.on('interact', () =>
         {
-             window.location.href = this.link.href
+            window.open(this.link.href, '_blank')
         })
 
         // Area label
