@@ -152,15 +152,12 @@ export default class ProjectsSection
                 name: 'Luni.app',
                 imageSources:
                 [
-                    './models/projects/luni/slideA.webp',
-                    './models/projects/luni/slideB.webp',
-                    './models/projects/luni/slideC.webp',
-                    './models/projects/luni/slideD.webp'
+                    './models/projects/physics/clif.png'
                 ],
                 floorTexture: this.resources.items.projectsKnowClifFloorTexture,
                 link:
                 {
-                    href: 'https://luni.app',
+                    href: 'https://eduquest-chi.vercel.app/lessons',
                     x: - 4.8,
                     y: - 3,
                     halfExtents:
