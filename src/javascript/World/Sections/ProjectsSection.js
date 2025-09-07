@@ -129,7 +129,7 @@ export default class ProjectsSection
                 name: 'Bonhomme | 10 ans',
                 imageSources:
                 [
-                    './models/projects/phyics/esc.png',
+                    './models/projects/physics/esc.png',
                 ],
                 floorTexture: this.resources.items.projectsEscRoomFloorTexture,
                 link:
