@@ -129,15 +129,12 @@ export default class ProjectsSection
                 name: 'Bonhomme | 10 ans',
                 imageSources:
                 [
-                    './models/projects/bonhomme10ans/slideA.webp',
-                    './models/projects/bonhomme10ans/slideB.webp',
-                    './models/projects/bonhomme10ans/slideC.webp',
-                    './models/projects/bonhomme10ans/slideD.webp'
+                    './models/projects/phyics/esc.png',
                 ],
                 floorTexture: this.resources.items.projectsEscRoomFloorTexture,
                 link:
                 {
-                    href: 'https://anniversary.bonhommeparis.com/',
+                    href: 'https://eduquest-chi.vercel.app/escaperoom/physics',
                     x: - 4.8,
                     y: - 2,
                     halfExtents:
